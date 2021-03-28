@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/root/.pyenv/versions/pytorch_docker_test/bin/python",
+    "jupyter.jupyterServerType": "local"
+}
